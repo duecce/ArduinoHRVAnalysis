@@ -1,6 +1,10 @@
 # ArduinoHRVAnalysis
 Development of an embedded system based on Arduino microcontroller to analyse Heart Rate Variability and compute its Fourier transform. The FFT results are sent through the serial port and then read by Matlab, which estimates and shows the Local Power Spectral Density.
 
+Authors: 
+Andrea Arcangeli
+Martina De Marinis
+
 ## Hardware 
 This device uses the following components:
 - Arduino MKR1000 (MEGA/Uno/MKR1010 are equivalent)
