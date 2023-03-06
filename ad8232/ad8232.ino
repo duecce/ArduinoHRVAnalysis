@@ -1,3 +1,11 @@
+/*
+ *
+ * Author(s):
+ *    Andrea Arcangeli
+ *    Martina De Marinis
+ *
+ */
+
 #include "RealTime_IIR.hpp" // libreria filtro IIR
 #include <arduinoFFT.h> // libreria FFT
 
