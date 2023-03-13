@@ -10,7 +10,7 @@ This device uses the following components:
 - Arduino MKR1000 (MEGA/Uno/MKR1010 are equivalent)
 - AD8232: single lead heart rate monitor
 
-The 3 electrodes connected to the AD8232 are placed on the right arm, the left arm and the left leg.
+The 3 electrodes connected to the AD8232 are placed on the right arm, the left arm and the right leg.
 ![ad8232](https://user-images.githubusercontent.com/63754081/223095052-1d2bc996-6273-4a90-8e77-8634393d53e7.jpg)
 
 ## AD8232 -> Arduino pin mapping
